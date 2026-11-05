@@ -14,7 +14,7 @@ Predicting the sale price of residential homes in Ames, Iowa from 79 property fe
 | **Task** | Regression: predict `SalePrice` for each house in the test set |
 | **Data** | 1,460 training houses and 1,459 test houses, 79 explanatory features |
 | **Metric** | RMSE between log(predicted) and log(actual) price |
-| **Tools** | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, XGBoost, LightGBM, CatBoost |
+| **Tools** | Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, XGBoost, LightGBM, CatBoost... |
 | **Final model** | Stacking ensemble (6 base models + weighted voting meta-learner) |
 
 ---
