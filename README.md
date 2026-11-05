@@ -25,7 +25,6 @@ Predicting the sale price of residential homes in Ames, Iowa from 79 property fe
 .
 ├── house_price_prediction.ipynb   
 ├── submission.csv                 # Final Kaggle submission
-├── requirements.txt
 └── README.md
 ```
 
